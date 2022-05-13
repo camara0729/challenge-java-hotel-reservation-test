@@ -1,0 +1,21 @@
+3 hotéis
+
+Lakewood - classificação = 3
+			   CN   CE
+	   taxa dia sem = 110 / 80
+	   taxa final s =  90 / 80
+	   
+Bridgewood - classificação = 4
+			   CN    CE
+	   taxa dia sem = 160 / 110
+	   taxa final s =  60 /  50
+
+Ridgewood - classificação = 5
+			   CN    CE
+	   taxa dia sem = 220 / 100
+	   taxa final s = 150 /  40
+
+1. Pedir para o cliente escrever o tipo de cliente e data(diaMesAno(dia da semana))
+2. Para isso, verificar em que dia da semana a data cai e verificar o tipo de cliente.
+3. Implementar período de dias cliente.
+

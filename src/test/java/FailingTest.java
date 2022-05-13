@@ -1,4 +1,7 @@
 import org.junit.Test;
+
+import hotel.HotelReservation;
+
 import static org.junit.Assert.*;
 
 public class FailingTest {
